@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my-react-app/static/css/main.f83acc53.css",
-    "main.js": "/my-react-app/static/js/main.4af5ff95.js",
-    "static/js/453.e3181d62.chunk.js": "/my-react-app/static/js/453.e3181d62.chunk.js",
-    "static/media/Fustat-Bold.ttf": "/my-react-app/static/media/Fustat-Bold.41988b079933c7892514.ttf",
-    "static/media/Fustat-Light.ttf": "/my-react-app/static/media/Fustat-Light.d38e95fce2037292512d.ttf",
-    "static/media/Fustat-Regular.ttf": "/my-react-app/static/media/Fustat-Regular.529c2d804ead3713c783.ttf",
-    "static/media/a.png": "/my-react-app/static/media/a.39369bd139d1ac1255ef.png",
-    "index.html": "/my-react-app/index.html",
-    "static/media/getFetch.cjs": "/my-react-app/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.f83acc53.css.map": "/my-react-app/static/css/main.f83acc53.css.map",
-    "main.4af5ff95.js.map": "/my-react-app/static/js/main.4af5ff95.js.map",
-    "453.e3181d62.chunk.js.map": "/my-react-app/static/js/453.e3181d62.chunk.js.map"
+    "main.css": "/weather-projet/static/css/main.dfc6bd11.css",
+    "main.js": "/weather-projet/static/js/main.853118ed.js",
+    "static/js/453.e3181d62.chunk.js": "/weather-projet/static/js/453.e3181d62.chunk.js",
+    "static/media/Fustat-Bold.ttf": "/weather-projet/static/media/Fustat-Bold.41988b079933c7892514.ttf",
+    "static/media/Fustat-Light.ttf": "/weather-projet/static/media/Fustat-Light.d38e95fce2037292512d.ttf",
+    "static/media/Fustat-Regular.ttf": "/weather-projet/static/media/Fustat-Regular.529c2d804ead3713c783.ttf",
+    "static/media/a.png": "/weather-projet/static/media/a.39369bd139d1ac1255ef.png",
+    "index.html": "/weather-projet/index.html",
+    "static/media/getFetch.cjs": "/weather-projet/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.dfc6bd11.css.map": "/weather-projet/static/css/main.dfc6bd11.css.map",
+    "main.853118ed.js.map": "/weather-projet/static/js/main.853118ed.js.map",
+    "453.e3181d62.chunk.js.map": "/weather-projet/static/js/453.e3181d62.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f83acc53.css",
-    "static/js/main.4af5ff95.js"
+    "static/css/main.dfc6bd11.css",
+    "static/js/main.853118ed.js"
   ]
 }
